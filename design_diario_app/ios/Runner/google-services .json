@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553373553902",
+    "project_id": "design-diario-app",
+    "storage_bucket": "design-diario-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553373553902:android:7782e92407dba6be318fff",
+        "android_client_info": {
+          "package_name": "com.example.designDiarioApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553373553902-pibvvvdeck7t822on0jc7gu3n6v0jk6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnmf7Eix_VHRFbyX4rrmW6SVAn1f8oyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553373553902-pibvvvdeck7t822on0jc7gu3n6v0jk6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
